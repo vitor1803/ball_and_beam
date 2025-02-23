@@ -1,0 +1,11 @@
+# Ignora diretórios de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignora diretórios de distribuição do Python
+*.egg-info/
+*.egg
+
+# Ignora arquivos CSV
+*.csv
